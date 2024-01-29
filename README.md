@@ -1,2 +1,2 @@
-# asobiba-orchard-htmx
-sample project evaluating orchard core with htmx
+# asobiba-orchard-core
+sample project evaluating orchard core modules
